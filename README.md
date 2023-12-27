@@ -1,2 +1,2 @@
 # Weather-Website
-I developed this app by using HTML,CSS and JS.
+I developed this website by using HTML,CSS and JS.
